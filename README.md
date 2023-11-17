@@ -1,4 +1,4 @@
-<h1 align="center"> Practica2-OrtizPelaezKaren </h1>
+<h1 align="center"> Practica2-Ortiz Pelaez Karen </h1>
 
 Sistema básico de e-commerce donde los usuarios puedan registrarse, ver productos, agregarlos a un carrito y realizar compras.
 
